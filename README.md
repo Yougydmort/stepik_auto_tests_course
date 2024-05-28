@@ -1,0 +1,3 @@
+# stepik_auto_tests_course
+
+This is a collection of auto tests for Google Chrome in Selenium environment. ’Nuff said, I guess…
